@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.tab-content {
+    border: 1px solid #ddd;
+    padding: 15px;
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+#tab-content {
+    margin-top: 10px;
+}
